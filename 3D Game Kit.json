@@ -1,0 +1,35 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "3D Game Kit",
+      "message": {
+        "embeds": [
+          {
+            "title": "3D Game Kit | Tutorials | Unity Asset Store",
+            "description": "A 3D project designed for non-programmers. Whether you’re an artist, designer or anything in between, The Explorer: 3D Gamekit is an excellent way to see how this collection of gameplay elements, tools, and systems can hook up gameplay without you writing any code. We’ve created a two level 3D game example using this system for you to explore.\n\nDiscover the mysterious alien planet where our Principal Engineer, Ellen has crash landed. Avoid the hazards and defeat the enemies lurking within the ancient ruins of this unknown civilization.",
+            "color": 16776960,
+            "fields": [
+              {
+                "name": "Check out the link below to watch the video:",
+                "value": "https://assetstore.unity.com/packages/templates/tutorials/3d-game-kit-115747"
+              }
+            ],
+            "author": {
+              "name": "Massey Game Jam Tutorials",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "footer": {
+              "text": "MasseyGameJam.Com",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "timestamp": "2020-10-12T23:22:00.000Z",
+            "image": {
+              "url": "https://assetstorev1-prd-cdn.unity3d.com/key-image/6747baf6-8caf-4d5c-85f5-b9781514ff45.png"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
